@@ -100,3 +100,6 @@
 [submodule "bundle/tlib"]
 	path = bundle/tlib
 	url = git://github.com/tomtom/tlib_vim.git
+[submodule "bundle/actionscript-vim-bundle"]
+	path = bundle/actionscript-vim-bundle
+	url = git://github.com/jamestomasino/actionscript-vim-bundle.git
