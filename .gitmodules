@@ -81,7 +81,7 @@
 	url = git://github.com/terryma/vim-multiple-cursors.git
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
-	url = git@github.com:bling/vim-airline.git
+	url = git://github.com/bling/vim-airline.git
 [submodule "bundle/delimitMate"]
 	path = bundle/delimitMate
 	url = git://github.com/Raimondi/delimitMate.git
@@ -90,4 +90,4 @@
 	url = git://github.com/mileszs/ack.vim.git
 [submodule "bundle/vim-snipmate"]
 	path = bundle/vim-snipmate
-	url = git@github.com:garbas/vim-snipmate.git
+	url = git://github.com/garbas/vim-snipmate.git
