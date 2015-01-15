@@ -103,3 +103,6 @@
 [submodule "bundle/actionscript-vim-bundle"]
 	path = bundle/actionscript-vim-bundle
 	url = git://github.com/jamestomasino/actionscript-vim-bundle.git
+[submodule "bundle/typescript-vim"]
+	path = bundle/typescript-vim
+	url = git://github.com/leafgarland/typescript-vim.git
