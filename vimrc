@@ -17,3 +17,6 @@ noremap <CR> :nohlsearch<CR>
 
 " select ALL
 map <C-A> ggVG
+
+" disable vim-go's version warning
+let g:go_version_warning = 0
