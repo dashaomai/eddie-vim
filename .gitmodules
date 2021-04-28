@@ -63,7 +63,7 @@
 	url = git://github.com/vim-scripts/Align.git
 [submodule "bundle/vim-octopress"]
 	path = bundle/vim-octopress
-	url = git://github.com/tangledhelix/vim-octopress.git
+	url = git://github.com/dashaomai/vim-octopress.git
 [submodule "bundle/vim-pathogen"]
 	path = bundle/vim-pathogen
 	url = git://github.com/tpope/vim-pathogen.git
@@ -109,7 +109,6 @@
 [submodule "bundle/go-vim"]
 	path = bundle/go-vim
 	url = git://github.com/fatih/vim-go.git
-
 [submodule "bundle/vim-scala"]
 	path = bundle/vim-scala
 	url = git://github.com/derekwyatt/vim-scala.git
