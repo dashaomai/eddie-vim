@@ -20,3 +20,5 @@ map <C-A> ggVG
 
 " disable vim-go's version warning
 let g:go_version_warning = 0
+
+let g:snipMate = { 'snippet_version' : 1 }
